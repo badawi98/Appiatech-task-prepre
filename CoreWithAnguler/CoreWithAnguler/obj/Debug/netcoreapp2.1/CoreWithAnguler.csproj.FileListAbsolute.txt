@@ -1,0 +1,14 @@
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\bin\Debug\netcoreapp2.1\CoreWithAnguler.deps.json
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\bin\Debug\netcoreapp2.1\CoreWithAnguler.runtimeconfig.json
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\bin\Debug\netcoreapp2.1\CoreWithAnguler.runtimeconfig.dev.json
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\bin\Debug\netcoreapp2.1\CoreWithAnguler.dll
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\bin\Debug\netcoreapp2.1\CoreWithAnguler.pdb
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\obj\Debug\netcoreapp2.1\CoreWithAnguler.csprojAssemblyReference.cache
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\obj\Debug\netcoreapp2.1\CoreWithAnguler.csproj.CoreCompileInputs.cache
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\obj\Debug\netcoreapp2.1\CoreWithAnguler.RazorAssemblyInfo.cache
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\obj\Debug\netcoreapp2.1\CoreWithAnguler.RazorAssemblyInfo.cs
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\obj\Debug\netcoreapp2.1\CoreWithAnguler.AssemblyInfoInputs.cache
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\obj\Debug\netcoreapp2.1\CoreWithAnguler.AssemblyInfo.cs
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\obj\Debug\netcoreapp2.1\CoreWithAnguler.RazorTargetAssemblyInfo.cache
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\obj\Debug\netcoreapp2.1\CoreWithAnguler.dll
+C:\Users\badaw\source\repos\CoreWithAnguler\CoreWithAnguler\obj\Debug\netcoreapp2.1\CoreWithAnguler.pdb
